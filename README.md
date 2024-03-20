@@ -1,4 +1,4 @@
-### Hi there 👋
+https://github-readme-stats-sigma-five.vercel.app/api?username=ferdinandyb&show_icons=true&theme=dracula&hide_title=true
 
 <!--
 **ferdinandyb/ferdinandyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
